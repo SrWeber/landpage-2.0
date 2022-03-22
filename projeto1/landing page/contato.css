@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(41, 147, 179);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width:1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+li{
+    display: inline-block;
+    margin: 15px;
+    color: chartreuse;
+
+}
+li:hover{
+    cursor: pointer;
+
+}
+a{
+    color: deeppink;
+    font-size: 20px;
+}

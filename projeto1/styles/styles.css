@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(18, 48, 48);
+}
+h2{
+    color: rgb(245, 250, 241);
+}
+tr{
+    color: darkred;
+}
+ul{
+    color: gray;
+}
+th{
+    color: aqua;
+}

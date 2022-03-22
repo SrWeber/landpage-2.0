@@ -1,0 +1,12 @@
+ctrl s = salvar
+
+<html>
+</html>  vai abrir e fechar altomaticamente 
+
+
+
+
+
+
+
+
